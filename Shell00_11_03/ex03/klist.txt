@@ -1,0 +1,6 @@
+Credentials cache: API:574B095A-A74A-4184-ABA1-03FEACB4ECDA
+        Principal: mslyther@MSK.21-SCHOOL.RU
+
+  Issued                Expires               Principal
+Feb 15 15:15:30 2021  Feb 16 01:15:30 2021  krbtgt/MSK.21-SCHOOL.RU@MSK.21-SCHOOL.RU
+Feb 15 15:15:32 2021  Feb 16 01:15:30 2021  HTTP/student-storage.msk.21-school.ru@MSK.21-SCHOOL.RU
